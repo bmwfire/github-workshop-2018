@@ -5,6 +5,5 @@
 int main() 
 {
 	printf("First Contribution\n");
-  printf("falalalala")
 }
 
